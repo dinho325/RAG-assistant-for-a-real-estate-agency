@@ -1,0 +1,1 @@
+# RAG-assistant-for-a-real-estate-agency
